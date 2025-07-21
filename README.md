@@ -28,7 +28,7 @@
 
 ## 📫 Contact Me
 
-- GitHub: [@DarlisV](https://github.com/DarlisV)
+- GitHub: <a> href= "target=_blank" a/> [@DarlisV](https://github.com/DarlisV)
 - Instagram: [@darlis_v](https://www.instagram.com/darlis_v/)
 - Email: d.valenzuela0774@gmail.com
 
