@@ -26,7 +26,7 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact me
 
 - GitHub: [@DarlisV](https://github.com/DarlisV)
 - Instagram: [@darlis_v](https://www.instagram.com/darlis_v/)
