@@ -34,4 +34,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Darlis GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarlisV&theme=blue_sky&show_icons=true&white&show)      
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarlisV&layout=compact&theme=sky_blue)
+![Profile Views](https://komarev.com/ghpvc/?username=DarlisV&color=blue&style=for-the-badge)
+
+
+
+
+---
+
 > _"The happiness of your life depends upon the quality of your thoughts."_
